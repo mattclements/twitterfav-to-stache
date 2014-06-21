@@ -1,0 +1,9 @@
+{
+"twitter": {
+	"consumer_key": "",
+	"consumer_secret": "",
+	"access_token": "",
+	"access_secret": ""
+},
+"max_tweet_id": 0
+}
